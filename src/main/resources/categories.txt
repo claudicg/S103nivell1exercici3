@@ -1,0 +1,2 @@
+Jugador [nom=Juan, puntuacio=0]
+Jugador [nom=Pep, puntuacio=1]
