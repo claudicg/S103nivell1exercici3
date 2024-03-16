@@ -3,7 +3,7 @@ package n1exercici3.beans;
 public class Jugador {
 	
 	private String nom = "";
-	private int puntuacio = 0;
+	private int puntuacio;
 	
 	public Jugador() {
 		super();	
